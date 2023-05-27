@@ -1,5 +1,5 @@
 # Child abandonment prevention system
-Child abandonment prevention system is the detection of forgetting to stop the water using QuickFeather Development Kit and SensiML AI Software.
+The child abandonment prevention system checks the getting off of a kindergarten child using Huskylens of Getting Started with AI, and transfers the getting off information data to the Arduino Cloud.
 
 ![](https://github.com/tomosoft-jp/preventionsystem/blob/main/Smart10.jpg) "") 
 
